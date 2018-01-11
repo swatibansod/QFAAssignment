@@ -1,0 +1,6 @@
+QAFHomePage.flight.lnk = {\"locator\":\"xpath=//span[text()='%s']\",\"desc\":\"flight link on the homepage\"}
+QAFHomePage.flightFrom.input = {\"locator\":\"css=#flight-origin\",\"desc\":\"Enter flight source\"}
+QAFHomePage.flightTo.input = {\"locator\":\"css=#flight-destination\",\"desc\":\"Enter Flight destination\"}
+QAFHomePage.flightdepart.date = {\"locator\":\"css=#flight-departing\",\"desc\":\"Enter depart date\"}
+QAFHomePage.flightreturn.date = {\"locator\":\"css=#flight-returning\",\"desc\":\"enter return date\"}
+QAFHomePage.Search.button = {\"locator\":\"css=#search-button\",\"desc\":\"click on search button\"}

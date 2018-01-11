@@ -1,0 +1,12 @@
+
+
+SCENARIO: OrbitzFlightBooking
+META-DATA: {"description":"","groups":["P1","P2","SMOKE"]}
+	
+	#TODO: call test steps
+	
+	Given user launch the application
+	When user books the flight using "Flights","Pune, India (PNQ-Lohegaon)","Nagpur, India (NAG-Dr. Ambedkar Intl.)","01/11/2018","02/09/2018"
+	When user verify the results
+	
+END

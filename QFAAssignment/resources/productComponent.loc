@@ -1,0 +1,4 @@
+flight.image = {\"locator\":\"css=.tile-media\"}
+flight.time = {\"locator\":\"css=.departure-time\"}
+flight.arrivalTime = {\"locator\":\"css=.arrival-time\"}
+flight.stop = {\"locator\":\"css=.stops-emphasis\"}
