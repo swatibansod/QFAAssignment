@@ -80,7 +80,7 @@ public class QaforbitzHomepage extends WebDriverBaseTestPage<WebDriverTestPage> 
 		QAFHomePageflightToinputk.sendKeys(destination);
 	
 		QAFHomePageflightdepartdate.sendKeys(departureDate);
-		//QAFHomePageflightreturndate.clear();
+		QAFHomePageflightreturndate.clear();
 		QAFHomePageflightreturndate.sendKeys(returnDate);
 		QAFHomePageSearchbutton.click();
 		
